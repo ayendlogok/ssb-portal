@@ -8,6 +8,7 @@ const App = {
 
     init() {
         this.bindEvents();
+        console.log("SSB Portal: Football Animation Active");
         if (Auth.checkSession()) {
             this.showMainView();
         } else {

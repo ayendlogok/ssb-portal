@@ -1,3 +1,4 @@
+/* AUTH MODULE - v1.1 [Feature: Global Animation Ready] */
 const Auth = {
     currentUser: null,
 

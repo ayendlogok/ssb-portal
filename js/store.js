@@ -1,3 +1,4 @@
+/* STORE MODULE - v1.1 [Feature: Global Animation Ready] */
 const Store = {
     init() {
         if (!localStorage.getItem('ssb_data')) {
